@@ -24,6 +24,6 @@ npm install
 ```
 3. Start the development server:
 ```
-npm start
+npm run dev
 ```
-This will start the development server and open the shoe store landing page in your default browser.
+This will start the development server and give localhost link to the website.
