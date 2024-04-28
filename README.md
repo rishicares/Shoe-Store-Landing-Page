@@ -19,7 +19,7 @@ git clone https://github.com/rishicares/Shoe-Store-Landing-Page.git
 ```
 2. Install dependencies:
 ```
-cd Shoe-Store-Landing-Page
+cd TailwindCSS-Practice-Project
 npm install
 ```
 3. Start the development server:
